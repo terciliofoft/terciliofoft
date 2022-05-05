@@ -1,0 +1,92 @@
+*{
+    margin:  0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    box-sizing: border-box;
+}
+h1{
+    margin: 0px;
+    padding: 0px;
+    background-position: center;
+    position: center;
+}
+.hero{
+    height: 11vh;
+    width: 50%;
+    background-image:url(../CSS/goo.png);
+    background-size: cover;
+    background-position: center;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 45px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+.logo{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+}
+span{
+    color:rgb(189, 26, 26)
+}
+.content{
+position: absolute;
+top: 50%;
+left: 8%;
+transform: translateY(-50%);
+}
+h1{
+color: rgb(0, 0, 0);
+margin: 20px 0px 20px;
+font-size: 75px;
+}
+h3{
+    color:rgb(0, 0, 0);
+    font-size: 25px;
+}
+h4{
+    color:rgba(0, 0, 0, 0.8);
+    letter-spacing: 2px;
+    font-size: 20px;
+}
+.about{
+    width: 97%;
+    padding: 60px 0px ;
+    background-color:#714c33;
+}
+.about img{
+    height: auto;
+    width: 560px;
+}
+.about-text{
+    width: 550px;
+}
+main{
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.about-text h2 {
+color: white;
+font-size: 36px;
+text-align: justify;
+text-transform: capitalize;
+margin-bottom: 20px;
+}
+p{
+    color: white;
+    letter-spacing: 2px;
+    font-size: 18px;
+    margin-bottom: 25px;
+    text-transform: capitalize;
+    font-weight: bold;
+}

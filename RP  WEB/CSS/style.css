@@ -1,0 +1,49 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image:url("../IMAGENS/area.jpg");
+    background-position: 50% 30% ;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+    display: block;
+    height: 55px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 30px;
+    border: 1px solid black;
+    font-size: 16pt;
+    padding: 10px 20px ;
+    background-color: rgba(231, 23, 175, 0.01);
+    color: white;
+}
+
+div#corpo-form{
+    /*background-color: red ;*/
+    width: 430px;
+    margin: 100px auto 0px auto;
+}
+
+div#corpo-form h1{
+    text-align: center;
+    padding: 20px;
+}
+
+a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-align: center;
+    display: block;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+input[type=submit]{
+    background-color: #01ff27;
+    border: none;
+}
