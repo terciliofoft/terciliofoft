@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @terciliofoft.
 - 👀 I’m interested in many  programming languages.
-- 🌱 I’m currently learning javascript,python,java,sql.
+- 🌱 I’m currently learning javascript,python,java,sql,Php,C#.
 - 💞️ I’m looking to collaborate on  other developers and programmers.
-- 📫 How to reach me faceboock: Foft stubborn
+- 📫 How to reach me:
+- facebook: Foft suka
 - Instagram: FoftSuka
 - Youtube: FOFT SUKA
 
